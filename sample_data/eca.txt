@@ -1,0 +1,8 @@
+S001,Football;Coding Club;Debate
+S002,Dance;Music Club
+S003,Basketball
+S004,Coding Club;Robotics;Math Olympiad;Debate
+S005,Football
+S006,Music Club;Drama;Volunteer Work;Coding Club
+S007,Cricket;Chess
+S008,Debate;Coding Club;Dance;Robotics;Volunteer Work

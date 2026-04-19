@@ -1,0 +1,9 @@
+S001, Saurav Gautam, 35, Kathmandu, 9841000001, admin
+S001, Aarav Sharma, 19, Lalitpur, 9841000010, student
+S002, Sita Tamang, 20, Bhaktapur, 9841000011, student
+S003,Rohan Thapa, 18, Kathmandu, 9841000012, student
+S004, Priya Maharjan, 21,Patan, 9841000013, student
+S005, Bikash Gurung, 19, Pokhara, 9841000014, student
+S006, Anisha KC, 20, Kathmandu, 9841000015, student
+S007, Sujan Rai, 18, Biratnagar, 9841000016, student
+S008, Deepa Shrestha, 19, Lalitpur, 9841000017, student

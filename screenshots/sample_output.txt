@@ -1,0 +1,68 @@
+  Chart saved: /home/claude/project/charts/subject_averages.png
+  Chart saved: /home/claude/project/charts/student_comparison.png
+  Chart saved: /home/claude/project/charts/grade_distribution.png
+  Chart saved: /home/claude/project/charts/eca_impact.png
+All charts generated.
+
+=======================================================
+  SAMPLE OUTPUT - LOGIN & ADMIN OPERATIONS
+=======================================================
+
+  LOGIN
+----------------------------------------
+  Username: A001
+  Password: admin123
+
+  Welcome, Saurav Gautam! (Role: ADMIN)
+
+==================================================
+  ADMIN MENU
+==================================================
+  1. View All Students
+  ...
+  Choice: 1
+
+  --- All Students ---
+  ID      Name                Age   Average
+  ---------------------------------------------
+  S001    Aarav Sharma        19       82.60
+  S002    Sita Tamang         20       75.60
+  S003    Rohan Thapa         18       51.60
+  S004    Priya Maharjan      21       89.20
+  S005    Bikash Gurung       19       46.00
+  S006    Anisha KC           20       73.00
+  S007    Sujan Rai           18       54.60
+  S008    Deepa Shrestha      19       86.60
+
+  Choice: 5
+  Enter Student ID: S001
+
+  --- Grades for Aarav Sharma ---
+  Subject           | Marks
+  -----------------------------------
+  Mathematics         | 85.0
+  Physics             | 78.0
+  Programming         | 92.0
+  English             | 70.0
+  Data Science        | 88.0
+  Average             | 82.60
+
+  Choice: 9
+  PERFORMANCE ANALYTICS DASHBOARD
+  Choice: 5
+  Enter passing threshold: 40
+
+  Students with average below 40:
+  --------------------------------------------------
+
+  Choice: 6
+  TOP PERFORMERS RANKING
+  ---------------------------------------------
+  1     Priya Maharjan         89.20
+  2     Deepa Shrestha         86.60
+  3     Aarav Sharma           82.60
+  4     Sita Tamang            75.60
+  5     Anisha KC              73.00
+  6     Sujan Rai              54.60
+  7     Rohan Thapa            51.60
+  8     Bikash Gurung          46.00
